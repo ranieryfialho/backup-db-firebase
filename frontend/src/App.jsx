@@ -44,7 +44,7 @@ function App() {
     formData.append('serviceAccountKey', file);
 
     try {
-      const response = await fetch('http://127.0.0.1:5000/api/list-collections', {
+      const response = await fetch('/api/list-collections', {
         method: 'POST',
         body: formData,
       });
@@ -82,7 +82,7 @@ function App() {
     formData.append('collections', collectionsToBackup.join(','));
 
     try {
-      const response = await fetch('http://127.0.0.1:5000/api/generate-backup', {
+      const response = await fetch('/api/generate-backup', {
         method: 'POST',
         body: formData,
       });
