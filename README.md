@@ -50,7 +50,7 @@ Para executar este projeto localmente, siga os passos abaixo.
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/ranieryfialho/backup-db-firebase.git](https://github.com/ranieryfialho/backup-db-firebase.git)
 cd seu-repositorio
 ```
 
