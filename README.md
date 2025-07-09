@@ -4,7 +4,7 @@
 
 Uma aplicação web full-stack que permite aos usuários gerar backups de suas bases de dados Firebase Cloud Firestore de forma segura, interativa e sob demanda.
 
-![Screenshot da Aplicação](https://i.imgur.com/a159ad.png)
+![Screenshot da Aplicação](./ss.png)
 
 ## 📜 Descrição
 
